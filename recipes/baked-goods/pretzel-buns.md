@@ -14,9 +14,9 @@ Dough
 - [ ] 2 teaspoons instant yeast
 
 - [ ] 1 3/4 cups (397g) water, warm
-- [ ] 1/4 cup (28g) King Arthur Baker's Special Dry Milk or nonfat dry milk
-or
-- [ ] 3/4 cup (170g) water, warm
+- [ ] 1/4 cup (28g) King Arthur Baker's Special Dry Milk or nonfat dry milk  
+or  
+- [ ] 3/4 cup (170g) water, warm  
 - [ ] 1 cup (226g) milk
 
 Water Bath
